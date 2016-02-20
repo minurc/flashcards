@@ -1,6 +1,8 @@
 #!/usr/bin/env perl
 #
 
+
+
 print "const words = { \n";
 while (<STDIN>) {
 
