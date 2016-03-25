@@ -24,6 +24,22 @@ $(document).ready(function() {
         next_fc();
 
 
+// reverse control
+//
+$('#reverse').checkbox({
+    'onChecked': function() {
+        console.log('ON');
+    },
+    'onUnchecked': function() {
+        console.log('OFF');
+    }
+});
+
+
+// show answer control
+//
+
+
 });
 
 if (document.layers) {
@@ -62,13 +78,14 @@ function next_fc() {
 
     $('#score').html(q_data['idx']+'/'+len);
 
-    $('#fdw').html(dw[idx-1]);
-    $('#fd').html(words[dw[idx-1]]);
+    wrd = dw[idx-1];
+    $('#fdw').html(wrd);
+    $('#fd').html(words[wrd]);
     $('#fd').hide();
 
     if (len==1) { idx = 1; return 0; }
 
-    delete words[dw[idx]];
+    delete words[wrd];
 
     q_data['idx'] += 1;
 }
