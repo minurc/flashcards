@@ -29,6 +29,7 @@ $(document).ready(function() {
 $('#reverse').checkbox({
     'onChecked': function() {
         console.log('ON');
+
     },
     'onUnchecked': function() {
         console.log('OFF');
@@ -38,6 +39,18 @@ $('#reverse').checkbox({
 
 // show answer control
 //
+$('#showall').checkbox({
+    'onChecked': function() {
+        show_fc();
+        q_data['showfc'] = true;
+
+    },
+    'onUnchecked': function() {
+        hide_fc();
+        q_data['showfc'] = false;
+    }
+});
+
 
 
 });
@@ -65,6 +78,10 @@ function show_fc() {
     $('#fd').show();
 }
 
+function hide_fc() {
+    $('#fd').hide();
+}
+
 function init_fc() {
     q_data['idx'] = 1;
 }
@@ -88,6 +105,10 @@ function next_fc() {
     delete words[wrd];
 
     q_data['idx'] += 1;
+
+    if (q_data['showfc']) {
+        show_fc();
+    }
 }
 
 
