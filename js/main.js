@@ -3,6 +3,7 @@
  */
 
 var q_data = { };
+var cwrd = words;
 
 
 // ready event
@@ -84,12 +85,24 @@ function hide_fc() {
 
 function init_fc() {
     q_data['idx'] = 1;
+
+    cwrd=words;
+    /*
+    var l = Object.keys(cwrd).length;
+    var w = Object.keys(cwrd);
+    l2=Math.round(l/4);
+    console.log(l);
+    for (i=0; i<l-l2; i++) {
+        delete cwrd[w[i]];
+    }
+    */
 }
 
 function next_fc() {
 
-    var dw = Object.keys(words);
-    var len = Object.keys(words).length;
+
+    var dw = Object.keys(cwrd);
+    var len = Object.keys(cwrd).length;
     var idx = randr(len);
 
 
@@ -97,12 +110,13 @@ function next_fc() {
 
     wrd = dw[idx-1];
     $('#fdw').html(wrd);
-    $('#fd').html(words[wrd]);
+    // $('#fdw').html('<a href="http://www.dict.cc/?s='+wrd+'">'+wrd+'</a>');
+    $('#fd').html(cwrd[wrd]);
     $('#fd').hide();
 
     if (len==1) { idx = 1; return 0; }
 
-    delete words[wrd];
+    delete cwrd[wrd];
 
     q_data['idx'] += 1;
 
