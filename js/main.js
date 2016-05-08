@@ -30,10 +30,16 @@ $(document).ready(function() {
 $('#reverse').checkbox({
     'onChecked': function() {
         console.log('ON');
+        document.getElementById('fdw').setAttribute('id', 'fdX');
+        document.getElementById('fd').setAttribute('id', 'fdw');
+        document.getElementById('fdX').setAttribute('id', 'fd');
 
     },
     'onUnchecked': function() {
         console.log('OFF');
+        document.getElementById('fdw').setAttribute('id', 'fdX');
+        document.getElementById('fd').setAttribute('id', 'fdw');
+        document.getElementById('fdX').setAttribute('id', 'fd');
     }
 });
 
