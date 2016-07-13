@@ -2,7 +2,7 @@
 
     ø -- alt o
     ≠ -- alt 0
-    ~ -- alt n
+    ~ -- alt n (alt gr + +)
     / -- sft 7
     \ -- sft alt 7
 
@@ -4779,5 +4779,139 @@ enttäuscht = razocaran
 
 die Fähre = feri
 verbringen (hat verbracht) = provesti
+
+
+# 06.07.2016
+
+```
+    Ich möchte nach Berlin fliegen. Muss ich den Flug buchen?
+    Sie müssen nicht reservieren.
+    Sie können ohne Reservierung reisen.
+```
+
+der Kohl = kupus
+
+```
+    Frühlich ist von März bis Juni.
+    Von März an ist Frühlich.
+    Frühlich beginnt im März.
+
+    Von 18 an dafr man Alkohol kaufen.
+
+    Ich bin über 12 Stunden durch Montenegro gereist.
+
+    Ich hatte meinen Pass verloren. Ich musste über eine Woche länger auf Kuba
+    bleiben.
+```
+
+das Ufer = recna obala, korito
+der Umzug = selidba
+der Deich = nasip (od zemlje)
+die Geheimzahl = skriveni broj (pin)
+
+```
+    Ich kenne keine G???
+```
+
+abheben = podici (uopsteno)
+beiliegend = prilozeno
+
+sich merken = zapamtiti
+merken = primetiti
+
+sich einprägen = zapamtiti (urezati u mozak)
+sich einprägen ~ sich merken
+
+vernichten = unistiti
+zerstören = unistiti
+
+vernichten ~ > zerstören
+
+das Schreiben = dopis
+
+eingeben ~ eintragen
+
+das Mal = puta (matematicki)
+    zwei mal drei = dva puta tri
+
+nachsehen = proveriti (vizuelno)
+
+die Sicherheit = sigurnost
+klappen = poklopiti, uspeti (ideja)
+
+küssen = ljubiti
+
++A + einfallen +D = setiti se, dosetiti se
+    Mir fällt eine Idee ein
+
+```
+    Ich weiß, wie spät es ist
+```
+
+heißen = zvati se, znaciti
+
+weg sein = biti odsutan (eng. away)
+
+
+# 11.07.2016
+
+Schön siehst du      aus heute.
+--P1- --P2-- P3 -MF- ---SE----
+
+```
+    Ich frage dich, ob es regnet.
+```
+
+ob = da li?
+    Weißt du, wann der Film beginnt.
+
+"""
+    Ob kreira pitanja koja nisu potpuno konkretna tj. potencijal.
+    Napomena: nije svako nase 'da li' i nemacko, ali obrnuto jeste.
+"""
+
+bar bezahlen = gotovinsko placanje
+bargeld = gotovina, kes
+
+der Staat = drzava
+die Bankverbindung = instrukcije za placanje
+die Zinsen = kamata, interes
+
+lassen (a -> ä) = pustiti, dozvoliti
+
+"""
+    lassen koristimo kada referisemo na radnju koju neko radi meni za mene ili
+    samnom
+"""
+
+```
+    Ich lasse mein Auto reparieren
+             ≠
+    Ich repariere mein Auto.
+
+
+    Ich lasse mir die Haare schneiden.
+
+    Mein Auto ist kaputt. Ich muss mein Auto reparieren.
+    Ich lasse mein Auto reparieren.
+    Ich muss mein Auto reparieren lassen.
+```
+
+nähen = krojiti
+ausstellen = izdati
+
+
+irgend ~ es ist egal
+irgend(wie|wo|wann|was|...) = bilo (kako, gde, kada, sta), ikada
+
+"""
+    irgend - modifikator upitnih recenica u smislu uopstavanja
+"""
+
+der Berater = savetnik
+die Zukunft = buducnost
+
+
+    sastav: 15 Millionen €
 
 
