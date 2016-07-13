@@ -1,12 +1,3 @@
-<html>
-    <head>
-        <meta charset="utf-8">
-        <title>Deutsch</title>
-    </head>
-
-    <body>
-
-    <pre>
 ## legenda
 
     ø -- alt o
@@ -4790,6 +4781,3 @@ die Fähre = feri
 verbringen (hat verbracht) = provesti
 
 
-    </pre>
-    </body>
-</html>
