@@ -92,7 +92,18 @@ function hide_fc() {
 function init_fc() {
     q_data['idx'] = 1;
 
-    cwrd=words;
+    cwrd = {};
+    var text = '';
+    var lst;
+    var sel;
+    for (i=0; i<3; i++) { 
+        lst = Object.keys(words);
+        sel = lst[randr(lst.length)];
+        cwrd=$.extend(cwrd, words[sel]);
+        delete(words[sel]);
+        text = text + sel + ' ';
+    }
+    $('#selection').html('Flashcards: ' + text);
     /*
     var l = Object.keys(cwrd).length;
     var w = Object.keys(cwrd);
