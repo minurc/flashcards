@@ -1393,7 +1393,7 @@ anfangen (a -> ä)
 
 fangen = uhvatiti
 
-üben = vezbati
+üben (geübt)  = vezbati
 
 lachenö üben +A
 
@@ -4898,7 +4898,6 @@ lassen (a -> ä) = pustiti, dozvoliti
 ```
 
 nähen = krojiti
-ausstellen = izdati
 
 
 irgend ~ es ist egal
@@ -5002,5 +5001,60 @@ das Drachenfutter ... saznati sta znaci, opisati usmeno na casu i navesti
 
 
 C3, C4
+
+
+# 27.09.2016
+
+über nehmen = uzeti za zlo
+
+mir geht`s gut
+
+ausstellen = pokazati, izlagati, izdati
+
+die Ausstellung = izlozba
+
+nah ≠ fern
+nah = blizu
+fern = daleko
+
+die Nähe = blizu, na dohvat ruke
+
+
+```
+    Meine Mutter ist nett.
+    Ich finde Jazz-Musik gut.
+```
+
+schön < schöner < am schönsten  ... Artikel + schönst__ (mein ältestes Kind)
+
+```
+    Frankreich ist groß. Russland ist am größten.
+    Frankreich ist ein großes Land. Russland ist das größte Land.
+
+    Bul. K.Aleksandra je najduza ulica u Beogradu, najvecem gradu u Srbiji.
+    Das Boulevard K.Aleksandra ist die längste straße in Belgrad, der größten Stadt in Serbien.
+
+    Deutschland ist am besten in Fußball.
+    Deutschland hat die beste Fußballspieler (pl)
+    Deutschland hat den besten Fußballspieler (s)
+
+    Ich liebe meine Mutter am meisten, weil sie die beste Pizza auf der Welt macht.
+
+    Im Mai regnet es often, im Oktober am oftensten und den meisten Regen gibt es im November.
+
+    Die Donau ist lang, aber die Volga ist länger.
+    Die Volga ist länger als die Donau.
+```
+
+teuer < teurer < am teurersten + Verb ... Artikel + teuerst + Substantiv
+
+
+```
+    Das teure Auto < das teurere Auto < das teuerste Auto
+    ein teres Auto < ein teureres Auto
+```
+
+
+Aufsatz: 'Jetzt und früher'
 
 
