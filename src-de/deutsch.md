@@ -5058,3 +5058,100 @@ teuer < teurer < am teurersten + Verb ... Artikel + teuerst + Substantiv
 Aufsatz: 'Jetzt und früher'
 
 
+# 29.09.2016
+
+die Wildernis = divljina
+
+die Haut = koza (organ)
+das Leder = koza (materijal)
+
+der Genuß = uzitak
+genießen +A = uzivati
+
+```
+    Ich finde sie am besten.
+    Ich finde, sie ist am besten.
+```
+
+lecker < leckerer < am leckersten
+
+die Glühbirne = sijalica
+
+daheim ~ zu Hause
+daheim = kod kuce
+
+vorbestellung = pre-order, rezervacija
+
+der Hirsch = jelen
+dsa Wirtshaus = gasthaus
+schatte = senka
+
+gehobene = fancy
+der Anspruch /-˙˙e = ocekivanje, tvrdnja
+edel = plemenit
+
+unbezahlbar = neprocenjivo
+schätzen = ceniti (to appreciate)
+
+```
+    Wert legen auf +A = schätzen
+```
+
+
+# 04.10.2016
+
+das Märchen /- = bajka
+die Gelegenheit = povod
+
+die Arbeitsstelle ~ der Job ~ der Beruf
+
+um (etwas) gehen
+    Es gehts um eine Kuh
+
+schimpfen = psovanje
+schreien = dranje, drati se
+
+feuern = otkaz (sa polsa)
+
+der Ober -> Herr Ober = kelner
+
+der Gott /-˙˙er = bog
+
+bunt = sareno
+schießen (hat geschossen) = pucati
+
+rechts = auf der rechten Seite
+links = auf der linken Seite
+
+# 06.10.2016
+
+die Nähe = blizina
+die Ferne = daljina
+
+die Regierung = vlada
+das Amt = ministarstvo
+
+das Warnschild = znak upozorenja
+
+sich zeigen = pokazati se
+
+sogar = cak
+
+```
+    Ich habe (nur) ein Kind.
+    Ich habe nicht nur ein Kind - ich habe sogar drei!
+```
+
+berichten = izvestavati
+verbringen = provoditi (vreme)
+
+erst ~ zuerst
+erst = tek (tek je ...)
+zuerst = prvi (u nizu necega)
+
+die Wiese = livada
+
+befürchten = strahovati, bojati se
+
+
+
