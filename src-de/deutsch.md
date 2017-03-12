@@ -5154,4 +5154,123 @@ die Wiese = livada
 befürchten = strahovati, bojati se
 
 
+# 24.02.2017
+
+notwendig = neophodno
+
+hart = tvrdo, ozbiljno, tesko
+
+das Gesicht = lice
+der Kenner = poznavaoc
+
+"""
+    Um ... zu + Inf - koristi se u situacijama kada se nesto zeli postici,
+    koristi se u kombinaciji sa dodatkom
+"""
+
+```
+    Um ein Auto zu bekommen, musst du einen Führerschein haben - da bi dobio
+    moras imati vozacku dozvolu
+```
+
+anderes ausgedrückt = drugacije receno
+
+sich verhalten = ponasati se, ophoditi se
+das Verhalten = ponasanje, maniri
+
+schrecklich = uzasan
+
+das Sprichwort = izreka
+der Ausdruck = fraza, izreka, koncept
+
+```
+    wie die Hauptstadt von Neuseeland heißt - kako se zove glavni grad Novog Zelanda
+    welche die Hauptstadt von Neuseeland ist - koji --
+```
+
+sich erkälten = prehladiti se
+sich entschuldigen = izviniti se
+
+"""
+    Her Müller lässt sich entschuldigen, er ist stark erkältet
+"""
+
+
+nach meiner meinung = po mom misljenju
+
+die Rüchfahrt = povratak
+heben = podici
+das Heben = podizati (doslovce)
+
+der Herbst = jesen
+der Sommer = leto
+der Frühling = prolece
+der Winter = zima
+
+der Briefträger -er = postar
+der Anwalt -e = advokat
+
+das Getreide = grain (eng)
+der Nebel = magla
+
+der Gesetz -e = zakon
+das Zelt -e = sator
+
+schlagen = udarati, lupati
+
+verreisen = odputovati
+gewöhnlich = uobicajeno
+
+das Mehl -e = brasno
+
+
+# 08.03.2017
+
+der Einwohner = stanovnik
+
+Wer = ko?
+Wem = kome?
+Wen = koga?
+
+weit = siroko, daleko
+wie weite = koliko daleko / dokle
+
+```
+    weit bekannt - daleko poznat
+```
+
+Woher ~ Wo ... her
+Wohin ~ Wo ... hin
+
+```
+    Wo kommt der Schrank hin?
+    Wo haben Sie das her?
+```
+
+vorher = pre (ne zahteva nastavak - vreme)
+nachher = posle (ne zahteva nastavak - vreme)
+
+großzügig = velikodusan
+kühl = sveze (vreme)
+
+zuverlässig = poverljiv (karakterna osobina)
+
+Subjektor:
+obwohl = iako
+solange = sve dok
+bevor = pre nego
+damit = da se (gradi zavisnu recenicu)
+
+```
+    Stell dir Milch in der Kühlschrank, damit sie nicht sauer wird
+```
+
+der Makler = agent, broker, posrednik
+
+die Einzehlheiten = pojedinosti
+```
+    Bevor ich unterschreibe, mächte ich noch mehr Einzelheiten wissen.
+    Als er aufwache, war es schon spät am Morgen.
+```
+
 
