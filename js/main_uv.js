@@ -128,8 +128,8 @@ function next_fc() {
     $('#score').html(q_data['idx']+'/'+len);
 
     wrd = dw[idx-1];
-    $('#fdw').html(wrd);
-    // $('#fdw').html('<a href="$window.open("http://www.dict.cc/?s='+wrd+'")">'+wrd+'</a>');
+    // $('#fdw').html(wrd);
+    $('#fdw').html('<a href="http://www.dict.cc/?s='+wrd+'" target="_blank">'+wrd+'</a>');
     $('#fd').html(cwrd[wrd]);
     $('#fd').hide();
 
