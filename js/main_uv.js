@@ -129,7 +129,14 @@ function next_fc() {
 
     wrd = dw[idx-1];
     // $('#fdw').html(wrd);
-    $('#fdw').html('<a href="http://www.dict.cc/?s='+wrd+'" target="_blank">'+wrd+'</a>');
+    var n = wrd.search(/\(|Dat|Akk|Situativ|\/|Dir|\+/);
+    var deInf;
+    if (n == -1) {
+        deInf = wrd;
+    } else {
+        deInf = wrd.substring(0, n);
+    }
+    $('#fdw').html('<a href="http://www.dict.cc/?s='+deInf+'" target="_blank">'+wrd+'</a>');
     $('#fd').html(cwrd[wrd]);
     $('#fd').hide();
 
