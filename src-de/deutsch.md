@@ -5273,4 +5273,78 @@ die Einzehlheiten = pojedinosti
     Als er aufwache, war es schon spät am Morgen.
 ```
 
+# 16.03.2017
+
+meinetwegen
+```
+	meinetwegen kannst du machen, was du willst
+```
+
+"""
+fI - futur se gradi od pomocnog gl. werden (u presentu) + Inf. glavnog glagola
+"""
+
+fI
+	ich werde
+	du wirst
+	er/sie/es wird
+
+	wir werden
+	ihr wird
+	Sie/sie werden
+
+```
+	Sledece nedelje cu ici sa svojom porodicom na odmor.
+	Nächste Woche werde ich mit meiner Familie in den / (in) Urlaub gehen.
+```
+
+der Dolmetscher = prevodioc 
+die Dolmetscherin = prevodioc (zenski)
+
+pflegen = starati se
+
+die Stirn = celo
+der Rumpf = torzo
+die Wirbelsäule = kicma
+die Zehe = palcevi
+die Niere = bubreg
+das Knie = koleno
+der Hals = grlo
+die Verdauung = varenje
+die Schulter = rame
+das Skelett = skelet
+der Kreislauf = cirkulacija
+der Bauch = stomak
+der Magen = stomak (untra)
+die Lunge = pluca
+das Auge = oco
+der Blutdruck = pritisak
+das Geschlecht = pol
+die Brust = grudi
+das Gesäß = zadnjica
+der Knochen = kosti
+der Gehirn = mozak
+das Ohr = uho
+die Nase = nos
+der Mund = usta
+das Bein = noga
+der Arm = ruka
+der Atem = dah
+das Sinnesorgan = cula (miris, dodir, vid, sluh, ...)
+
+die Nahrung = negovati
+zuführen = dati, podhraniti, dodati
+das Merkmal = karakteristike
+die Gestalt = oblik, figura, forma
+feststellen = zakljuciti
+	ich stelle ... fest
+erforschen = istrazivati
+
+
+Genitiv
+	m : des
+	n : des
+	f : der
+	pl: der
+
 
