@@ -4544,6 +4544,7 @@ auffordern = zatraziti, apelovati
 unterbrichen = prekinuti
 während = dok (eng. while)
 der Streit = svadja
+der Zank = svadja
 die Faust = pesnica
 einverstanden = biti saglasan
 aussagen = izjaviti
@@ -5347,4 +5348,74 @@ Genitiv
 	f : der
 	pl: der
 
+
+# 20.03.2017
+
+
+schauen = gledati
+    wir haben zusammen einen Film geschaut.
+
+die Fläche = povrsina
+die Stätte = mesto (fizicki)
+mesto (fizicki)
+die Kraft = snaga, moc
+das Arbeitsamt = sluzba za zaposljavanje
+
+
+die Bedingung = preduslov
+das Arbeitsverhältnis = radni odnos
+der Vertrag = ugovor
+der Lohn = plata
+der Arbeitsunfall = nesreca na poslu
+der Gang = tok
+
+die Arbeitsunfähigkeit = (eng. sick leave, inability to work)
+
+der Zwerg = patuljak
+die Absicht = namera
+die Absicht == der Zweck
+
+das Elend == die Not = (in need, hardship, misery)
+der Neid = ljubomora
+neidisch = ljubomoran
+der Eigennutz = egoizam
+die Mühe = trud
+der Befehl = naredba
+der Auftrag = naredba
+
+die Meinung = misljenje
+kräftig = snazan, mocan
+die Gegend = okolina
+
+das Misstrauen = nepoverenje, sumnja
+der Zweifel = sumnja
+
+das Vergnügen = zadovoljstovo
+
+Ich hätte gerne ein gemischtes Obst mit Sahne.
+
+die Verzeihung = oprost
+bedinen = usluziti
+die Bedienung = usluga
+
+
+# 22.03.2017
+
+
+sich bemühen = potruditi se
+beabsichtigen = nameravati
+sich entschließen = odluciti se
+gelingen = uspevati
+gelingen == Erfolg
+
+
+
+der Taugenichts = lezilebovic
+versprechen = obecati
+
+vorhaben = nameravati
+anzulegen = zakaciti se (fizicki)
+sich weigern = neposlusnost
+
+bestanden = poloziti
 
