@@ -2915,7 +2915,7 @@ schließlich = konacno, na kraju, zakljucno
     Glagoli sa ovim prefiksom menja svoj oblik u pII
 
     Kada je prefix ne razdvojiv u pII se ne menja tj. nema +ge+ konstrukciju.
-    ver/be/ge/er ... su glagoli ciji prefix govori da se pII ne manja
+    ver/be/ge/er/miss/emp/ent ... su glagoli ciji prefix govori da se pII ne manja
 """
 
 verpassen = > verpasst
