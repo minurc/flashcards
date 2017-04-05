@@ -1,0 +1,29 @@
+
+# 03.04.2017
+
+Gern geschehen = moje zadovoljstvo (eng. my pleasure, yor`re welcome)
+
+
+die Absicht = namera, cilj
+    ich merket seine Absicht
+
+
+
+
+erlöschen (e-i) = prestati, isteci, ugasiti, okoncati (okoncati svetlo/plamen ili proces)
+	Eine Flamme, die niemals erlischt.
+	Seine Mitgliedschaft erlischt dieses Jahr
+
+brechen (e-i) = lomiti, izbiti, polomiti
+	Der Tisch brach unter der Last der Bücher.
+
+
+ausbrechen (e-i) = pobeci, osloboditi se, izbiti
+	Der Vulkan ist heute Nacht ausgebrochen.
+	Die Krankheit bricht erst nach drei Wochen aus.
+
+
+aussuchen = birati, izabrati
+    Die Name sucht man nicht aus
+
+

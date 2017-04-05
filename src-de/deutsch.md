@@ -1934,6 +1934,8 @@ der Schield = viteski stit
 ```
 
 mitnehmen = poneti sa sobom
+    sie nehmen alles mit, was ihnen das Leben bietet
+    Es nimmt mich alles so mit
 
 ruhig gelegen = miran kraj
 übernachtung = prenociste
@@ -4475,7 +4477,7 @@ hageln = pada grad
 die Hitze = vrucina
     die Hitze bekommt mir nicht = vrucina mi ne prija
 
-feuch = vlazno
+feucht = vlazno
 die Feuchtigkeit = vlaznost
 
 nass = mokro
@@ -4680,6 +4682,8 @@ einweihen = svecano otvaranje
 dichter = gust
 verhindern = spreciti
 ausweichen = izbeci nesto (fizicki)
+    der Fußgänger weicht dem Auto aus
+
 
 # 29.06.2016
 

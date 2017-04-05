@@ -83,10 +83,12 @@ document.onkeydown = function (evt) {
 
 function show_fc() {
     $('#fd').show();
+    $('#fdex').show();
 }
 
 function hide_fc() {
     $('#fd').hide();
+    $('#fdex').hide();
 }
 
 function init_fc() {
@@ -128,8 +130,18 @@ function next_fc() {
     wrd = dw[idx-1];
     $('#fdw').html(wrd);
     // $('#fdw').html('<a href="http://www.dict.cc/?s='+wrd+'">'+wrd+'</a>');
-    $('#fd').html(cwrd[wrd]);
+
+    // search & split meaning and example
+    var n = cwrd[wrd].search(/\|/);
+    var mng, ex;
+    mnt = cwrd[wrd].substring(0, n);
+    ex =  cwrd[wrd].substring(n);
+
+
+    $('#fd').html(mnt);
+    $('#fdex').html(ex);
     $('#fd').hide();
+    $('#fdex').hide();
 
     if (len==1) { idx = 1; return 0; }
 

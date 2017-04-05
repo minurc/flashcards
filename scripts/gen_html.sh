@@ -17,6 +17,7 @@ __EOF__
 
 cat ../src-de/deutsch.md >> $FILE
 cat ../src-de/deutsch2.md >> $FILE
+cat ../src-de/deutsch-at.md >> $FILE
 
 cat >> $FILE <<__EOF__
     </pre>
