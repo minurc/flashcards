@@ -44,3 +44,5 @@ die Geduld = strpljenje
 
 [!Zeitpräpozitionen](https://pbs.twimg.com/media/C7wmxP1X0AAjv3W.jpg)
 
+[!Negationswörter](https://pbs.twimg.com/media/C8lI2R6XUAALtZH.jpg)
+
