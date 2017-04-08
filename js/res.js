@@ -65,11 +65,16 @@ const words = {
 	'03.04.2017' : {
 		'Gern geschehen ' : 'moje zadovoljstvo (eng. my pleasure, yor`re welcome)|', 
 		'die Absicht ' : 'namera, cilj|', 
+		'der Abschied ' : 'oprostaj (farewell), odlazak|', 
 		'erlöschen (e-i) ' : 'prestati, isteci, ugasiti, okoncati (okoncati svetlo/plamen ili proces)|Eine Flamme, die niemals erlischt.', 
 		'brechen (e-i) ' : 'lomiti, izbiti, polomiti|Der Tisch brach unter der Last der Bücher.', 
 		'ausbrechen (e-i) ' : 'pobeci, osloboditi se, izbiti|Der Vulkan ist heute Nacht ausgebrochen.', 
 		'aussuchen ' : 'birati, izabrati|', 
+		'erhältlich ' : 'dostupan|', 
 	},
+	'08.04.2017' : {
+		'faces' : '<img src="https://pbs.twimg.com/media/C8uZPk8XcAEYNQ6.jpg"/>',		'der die das' : '<img src="https://pbs.twimg.com/media/C8gitsRXgAEs294.jpg"/>',		'adjectives D' : '<img src="https://pbs.twimg.com/media/C8UAcg4XkAAVomA.jpg"/>',		'die Anatomie' : '<img src="https://pbs.twimg.com/media/C7_U5vVWkAMtgl2.jpg"/>',		'die Geduld ' : 'strpljenje|', 
+		'Zeitpräpozitionen' : '<img src="https://pbs.twimg.com/media/C7wmxP1X0AAjv3W.jpg"/>',	},
 	'11.01.2016' : {
 		's ' : 'z|', 
 		'v ' : 'f|', 

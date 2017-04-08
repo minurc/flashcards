@@ -137,6 +137,9 @@ function next_fc() {
     mnt = cwrd[wrd].substring(0, n);
     ex =  cwrd[wrd].substring(n);
 
+    $('#fdwmng').html('<a href="http://www.dict.cc/?s='+wrd+'" target="_blank">dictCC</a>'+
+                      ' | <a href="https://www.dwds.de/wb/'+wrd+'" target="_blank">DWDS</a>'+
+                      ' | <a href="https://dict.leo.org/german-english/'+wrd+'" target="_blank">Leo</a>');
 
     $('#fd').html(mnt);
     $('#fdex').html(ex);

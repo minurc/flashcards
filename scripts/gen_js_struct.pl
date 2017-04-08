@@ -30,6 +30,12 @@ while (<STDIN>) {
         print "\t'$section' : {\n";
     }
 
+
+    # image support
+    if (m/\[!([^\]]+)\]\(([^\)]+)\)/) {
+        print "\t\t'$1' : '<img src=\"$2\"/>',";
+    }
+
 }
 if ($section) {
     print "\t},\n";

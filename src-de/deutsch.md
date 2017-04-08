@@ -4914,6 +4914,8 @@ irgend(wie|wo|wann|was|...) = bilo (kako, gde, kada, sta), ikada
 
 der Berater = savetnik
 die Zukunft = buducnost
+    diese Technologie hat (keine) Zukunft
+
 
 
     sastav: 15 Millionen €

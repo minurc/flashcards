@@ -7,7 +7,8 @@ Gern geschehen = moje zadovoljstvo (eng. my pleasure, yor`re welcome)
 die Absicht = namera, cilj
     ich merket seine Absicht
 
-
+der Abschied = oprostaj (farewell), odlazak
+    Fünf Jahre lang hat SZ-Korrespondentin Cathrin Kahlweit von Wien aus Österreich und Mittel-und Osteuropa beschrieben. Im Sommer nimmt sie Abschied. Eine Bilanz
 
 
 erlöschen (e-i) = prestati, isteci, ugasiti, okoncati (okoncati svetlo/plamen ili proces)
@@ -26,4 +27,20 @@ ausbrechen (e-i) = pobeci, osloboditi se, izbiti
 aussuchen = birati, izabrati
     Die Name sucht man nicht aus
 
+
+erhältlich = dostupan
+    HerzBlut ist exklusiv im Steiermarkdorf erhältlich.
+
+# 08.04.2017
+
+[!faces](https://pbs.twimg.com/media/C8uZPk8XcAEYNQ6.jpg)
+[!der die das](https://pbs.twimg.com/media/C8gitsRXgAEs294.jpg)
+[!adjectives D](https://pbs.twimg.com/media/C8UAcg4XkAAVomA.jpg)
+[!die Anatomie](https://pbs.twimg.com/media/C7_U5vVWkAMtgl2.jpg)
+
+
+die Geduld = strpljenje
+    die Geduld habe ich nicht, stundenlang stillzusitzen
+
+[!Zeitpräpozitionen](https://pbs.twimg.com/media/C7wmxP1X0AAjv3W.jpg)
 
