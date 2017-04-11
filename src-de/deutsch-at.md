@@ -46,3 +46,10 @@ die Geduld = strpljenje
 
 [!Negationswörter](https://pbs.twimg.com/media/C8lI2R6XUAALtZH.jpg)
 
+jemals = ikada
+
+[!verben3pII](https://pbs.twimg.com/media/C8_aamUXoAIwU8w.jpg)
+[!personalpronomen](https://pbs.twimg.com/media/C8uwJEiUwAANjQG.jpg)
+
+[!deklanation](https://deutschlernerblog.de/wp-content/uploads/2015/11/Adjektivdeklination_07_Adjektivdeklinationen_Tabelle_Deutsch_lernen_A1_A2_deutschlernerblog.png)
+

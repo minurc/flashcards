@@ -74,7 +74,8 @@ const words = {
 	},
 	'08.04.2017' : {
 		'faces' : '<img src="https://pbs.twimg.com/media/C8uZPk8XcAEYNQ6.jpg"/>',		'der die das' : '<img src="https://pbs.twimg.com/media/C8gitsRXgAEs294.jpg"/>',		'adjectives D' : '<img src="https://pbs.twimg.com/media/C8UAcg4XkAAVomA.jpg"/>',		'die Anatomie' : '<img src="https://pbs.twimg.com/media/C7_U5vVWkAMtgl2.jpg"/>',		'die Geduld ' : 'strpljenje|', 
-		'Zeitpräpozitionen' : '<img src="https://pbs.twimg.com/media/C7wmxP1X0AAjv3W.jpg"/>',	},
+		'Zeitpräpozitionen' : '<img src="https://pbs.twimg.com/media/C7wmxP1X0AAjv3W.jpg"/>',		'Negationswörter' : '<img src="https://pbs.twimg.com/media/C8lI2R6XUAALtZH.jpg"/>',		'jemals ' : 'ikada|', 
+		'verben3pII' : '<img src="https://pbs.twimg.com/media/C8_aamUXoAIwU8w.jpg"/>',		'personalpronomen' : '<img src="https://pbs.twimg.com/media/C8uwJEiUwAANjQG.jpg"/>',		'deklanation' : '<img src="https://deutschlernerblog.de/wp-content/uploads/2015/11/Adjektivdeklination_07_Adjektivdeklinationen_Tabelle_Deutsch_lernen_A1_A2_deutschlernerblog.png"/>',	},
 	'11.01.2016' : {
 		's ' : 'z|', 
 		'v ' : 'f|', 
