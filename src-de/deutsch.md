@@ -4593,6 +4593,9 @@ durch +A
 um +A herum = okolo
     Ich gehe um den Stuhl herum
 
+entlang = uzduz
+    man sah die Menschen die Straße entlang auf das Rathaus zumarschieren
+
 entlang +A
     Ich gehe die Donau entlang.
 

@@ -139,7 +139,8 @@ function next_fc() {
 
     $('#fdwmng').html('<a href="http://www.dict.cc/?s='+wrd+'" target="_blank">dictCC</a>'+
                       ' | <a href="https://www.dwds.de/wb/'+wrd+'" target="_blank">DWDS</a>'+
-                      ' | <a href="https://dict.leo.org/german-english/'+wrd+'" target="_blank">Leo</a>');
+                      ' | <a href="https://dict.leo.org/german-english/'+wrd+'" target="_blank">Leo</a>'+
+                      ' | <a href="http://en.bab.la/dictionary/german-english/'+wrd+'" target="_blank">Babla</a>');
 
     $('#fd').html(mnt);
     $('#fdex').html(ex);

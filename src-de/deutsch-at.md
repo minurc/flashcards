@@ -53,3 +53,25 @@ jemals = ikada
 
 [!deklanation](https://deutschlernerblog.de/wp-content/uploads/2015/11/Adjektivdeklination_07_Adjektivdeklinationen_Tabelle_Deutsch_lernen_A1_A2_deutschlernerblog.png)
 
+
+# 12.04.2017
+
+genehmigen (hat genehmigt) = odobriti, dozvoliti, autorizovati
+    Branko hat den Urlaubstag (oder den freien Tag) genehmigt
+
+
+die Abwicklung = procesiranje, obrada, izvrsenje
+    die Abwicklung ist in Belgrad
+
+verbringen = trostiti
+    Ich nehme am Freitag einen Urlaubstag, damit du Zeit mit deiner Familie verbringen kannst.
+
+es klappt = radi (eng. it works)
+    Ich hoffe, dass es klappt
+
+klappen = raditi (funkcionisati), saviti, eng. to clap
+    es klappt
+
+erwerben (hat erworben) = nabaviti, zaraditi, kupiti, dobiti
+    Leute aus Drittländern sollen diese Grundqualifikationen ebenfalls erwerben.
+
