@@ -75,3 +75,29 @@ klappen = raditi (funkcionisati), saviti, eng. to clap
 erwerben (hat erworben) = nabaviti, zaraditi, kupiti, dobiti
     Leute aus Drittländern sollen diese Grundqualifikationen ebenfalls erwerben.
 
+[!nehmen](https://pbs.twimg.com/media/C9XLczHUMAAY4Hs.jpg)
+
+
+# 18.04.2017
+
+trauen = verovati
+    ich traute meinen Ohren nicht
+
+entkommen = pobeci, izmaci, izbeci
+    man wollte ihn nicht lebendig entkommen lassen
+
+der Aufstand = ustanak, pobuna
+    das Zeichen, Signal zum Aufstand geben
+
+die Vergangenheit = proslost
+    Nizam will in die Vergangenheit und alles verändern
+
+der Verrat = izdaja
+    Die ganze Menschheit müsste für Nizams Verrat betzahlen
+
+der Sinn / -e = culo, misao, znacenje, vaznost
+    Dafür habe ich einen sechsten Sinn
+
+etw aufhalten = zaustaviti nesto
+    er muss aufgehalten werden
+
